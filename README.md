@@ -42,5 +42,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/stanislav-levendeev-798a4022b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/ecstasy_mvp" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-<a href="https://github.com/RoflFlex" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
 </p>
