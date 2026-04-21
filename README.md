@@ -23,8 +23,10 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Windesheim University](https://www.windesheim.com/).
-- :student: I’m currently learning  `Software Engineering`.
+<!---- :school: I am a `Student` at [Windesheim University](https://www.windesheim.com/).-->
+- :school: Currently pursuing an MSc. in Computer Science at [the University of Twente](https://www.utwente.nl/en/)
+- :mortar_board: BSc. in ICT, specialized in Software Engineering from [Windesheim](https://www.windesheim.com/)
+- :student: Focus area: `Data Science & Technology`
 - :nerd_face: Always `learning new things`.
 <br>
 
