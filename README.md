@@ -1,47 +1,54 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Stanislav</h1></summary>
-  </ul>
+<div align="center">
+
+# Hi 👋, I'm Stanislav
+
+### MSc Computer Science · Data Science & Technology
+
+Computer Vision · Multimodal ML · Foundation Models · Software Engineering
+
 </div>
 
-
-<!--- snake -->
-<div align="center">  <picture>
+<!-- Contribution snake -->
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoflFlex/RoflFlex/output/github-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoflFlex/RoflFlex/output/github-snake-light.svg">
-		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoflFlex/RoflFlex/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoflFlex/RoflFlex/output/github-snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RoflFlex/RoflFlex/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<!--- About me -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## 👨‍💻 About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- 🤓 MSc Computer Science student at the [University of Twente](https://www.utwente.nl/en/), specializing in **Data Science & Technology**
+- 🔬 Research Assistant working on **multimodal computer vision for healthcare**
+- 💻 Background in **Software Engineering** from [Windesheim](https://www.windesheim.com/)
+- 🧠 Particularly interested in **Computer Vision, Multimodal Machine Learning, Foundation Models, Deep Learning and Explainable AI**
+- 🛠️ Experience with both **research-oriented machine learning** and **production software development**
 
-<br><br>
+## 🛠️ Tech stack
 
-<!---- :school: I am a `Student` at [Windesheim University](https://www.windesheim.com/).-->
-- :school: Currently pursuing an MSc. in Computer Science at [the University of Twente](https://www.utwente.nl/en/)
-- :mortar_board: BSc. in ICT, specialized in Software Engineering from [Windesheim](https://www.windesheim.com/)
-- :student: Focus area: `Data Science & Technology`
-- :nerd_face: Always `learning new things`.
-<br>
-
-## 👨🏻‍💻 My skills
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,vue,js,ts,nodejs,express,postman,cs,java,mysql,mongodb,py,vscode,visualstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,ts,js,java,php,postgres,docker,git,linux,vscode&perline=6" />
   </a>
 </p>
 
+**AI / ML:** PyTorch · OpenCV · Hugging Face · Computer Vision · Multimodal ML · Deep Learning  
+**Software:** Python · JavaScript/TypeScript · Java · PHP · SQL  
+**Tools:** Git · Docker · PostgreSQL
+
 ## Connect with me
+
 <p align="center">
-	<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/stanislav-levendeev-798a4022b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/StanislavLevendeev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/stanislav-levendeev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/StanislavLevendeev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" width="45" />
+  </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
